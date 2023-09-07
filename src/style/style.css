@@ -1,0 +1,12 @@
+.cartes{
+    display: flex;
+    justify-content: center;
+    padding: 90px;
+  
+}
+
+.msg{
+    
+    display: flex;
+justify-content: center;
+}
